@@ -17,4 +17,4 @@ SwapMatic: https://swapmatic.io/swap
 - EVMBridge: https://github.com/BlockTimeWorld/EVMBridge
 - Swapmatic on GitHub: https://github.com/BlockTimeWorld/SwapMatic
 - Gitcoin: https://gitcoin.co/grants/1075/blocktime
-
+- https://medium.com/@admazzola/yield-farming-comes-to-matic-network-662afce55378
