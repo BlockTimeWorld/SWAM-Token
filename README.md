@@ -13,6 +13,28 @@ SwapMatic: https://swapmatic.io/swap
 - Mumbai: HOME_BRIDGEABLE_CONTRACT=https://explorer-mumbai.maticvigil.com/address/0x495029c478BC182555bBeBe48A614F39e572BA0D/read-contract
 - Goerli: HOME_BRIDGEABLE_CONTRACT=https://goerli.etherscan.io/token/0xa396d78f1aedf43877f48a32cad7666315a67c4e
 
+## Matic-to-Mainnet Config
+
+```
+# Token Portal Properties
+PORT=***
+
+# Ethereum Properties
+# Validator Private key
+PRIVATE_KEY=***
+
+# Bridgeable Token contract - Home is the sidechain
+HOME_ETHEREUM_PROVIDER_URL=https://mainnet.infura.io/v3/***
+HOME_BRIDGEABLE_CONTRACT=0xa396d78f1aedf43877f48a32cad7666315a67c4e
+
+# ERC20 Portal contract - Foreign is mainnet
+FOREIGN_ETHEREUM_PROVIDER_URL=https://rpc-mainnet.maticvigil.com
+FOREIGN_PORTAL_CONTRACT=0xd1f9DED8849A87AE404fb9d885E7f6a81f07309c
+
+# ERC20 - mainnet ERC20
+TOKEN_CONTRACT=0x820fe232433248732749C039EBcA0d43588Ad06d
+```
+
 ## Links
 - EVMBridge: https://github.com/BlockTimeWorld/EVMBridge
 - Swapmatic on GitHub: https://github.com/BlockTimeWorld/SwapMatic
