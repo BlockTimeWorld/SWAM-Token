@@ -13,7 +13,7 @@ SwapMatic: https://swapmatic.io/swap
 - Mumbai: HOME_BRIDGEABLE_CONTRACT=https://explorer-mumbai.maticvigil.com/address/0x495029c478BC182555bBeBe48A614F39e572BA0D/read-contract
 - Goerli: HOME_BRIDGEABLE_CONTRACT=https://goerli.etherscan.io/token/0xa396d78f1aedf43877f48a32cad7666315a67c4e
 
-## Matic-to-Mainnet Config
+## Matic-to-Mainnet .env
 
 ```
 # Token Portal Properties
