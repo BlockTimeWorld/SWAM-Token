@@ -23,15 +23,15 @@ PORT=***
 # Validator Private key
 PRIVATE_KEY=***
 
-# Bridgeable Token contract - Home is the sidechain
+# Bridgeable Token contract - Home is Ethereum Mainnet
 HOME_ETHEREUM_PROVIDER_URL=https://mainnet.infura.io/v3/***
-HOME_BRIDGEABLE_CONTRACT=0xa396d78f1aedf43877f48a32cad7666315a67c4e
+HOME_BRIDGEABLE_CONTRACT=0x368306eb52c8313fd398418c8220ddd560940e68
 
-# ERC20 Portal contract - Foreign is mainnet
+# ERC20 Portal contract - Foreign is Matic Network
 FOREIGN_ETHEREUM_PROVIDER_URL=https://rpc-mainnet.maticvigil.com
 FOREIGN_PORTAL_CONTRACT=0xd1f9DED8849A87AE404fb9d885E7f6a81f07309c
 
-# ERC20 - mainnet ERC20
+# ERC20 - Matic ERC20
 TOKEN_CONTRACT=0x820fe232433248732749C039EBcA0d43588Ad06d
 ```
 
