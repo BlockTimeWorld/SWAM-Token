@@ -1,6 +1,8 @@
 # SwapMatic Token SWAM
 
-SwapMatic Token SWAM is a multi-chain asset that utilizes a cryptographically secure EVMBridge to maintain balances on Matic Network and Ethereum Mainnet. The supply of 100,000,000 tokens can reside on Matic Network or Ethereum. The starting point is 0 supply on Ethereum Mainnet and 100,000,000 tokens on Matic. EMVBridge transactions are validated and secured by the contract owner's signature can be monitored in blockchain explorers.
+SwapMatic Token SWAM is a multi-chain asset that utilizes a cryptographically secure EVMBridge to maintain balances on Matic Network and Ethereum Mainnet. The supply of 100,000,000 tokens can reside on Matic Network or Ethereum. The starting point is 0 supply on Ethereum Mainnet and 100,000,000 tokens on Matic.
+
+EMVBridge transactions are validated and secured by the contract owner's signature AND can be monitored with blockchain explorers.
 
 Website: https://web.swapmatic.io
 
