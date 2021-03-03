@@ -15,6 +15,10 @@ Website: https://web.swapmatic.io
 - Mumbai: HOME_BRIDGEABLE_CONTRACT=https://explorer-mumbai.maticvigil.com/address/0x495029c478BC182555bBeBe48A614F39e572BA0D/read-contract
 - Goerli: HOME_BRIDGEABLE_CONTRACT=https://goerli.etherscan.io/token/0xa396d78f1aedf43877f48a32cad7666315a67c4e
 
+## BSC contracts
+- Matic: HOME_BRIDGEABLE_CONTRACT=https://explorer-mainnet.maticvigil.com/address/0xd1f9DED8849A87AE404fb9d885E7f6a81f07309c/contracts
+- BSC: HOME_BRIDGEABLE_CONTRACT=https://bscscan.com/address/0x1B3Ae9Af39607C44fd884F17E7FfA688BFF03581#readContract
+
 ## Matic-to-Mainnet .env
 
 ```
